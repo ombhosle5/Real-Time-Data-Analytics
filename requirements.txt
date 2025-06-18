@@ -1,0 +1,16 @@
+kafka-python==2.0.2 version
+requests
+pyspark==3.5.1 version
+psycopg2-binary
+dash
+plotly
+pandas
+PostgreSQL
+
+Note: Apache Spark and Apache Kafka you have their official website link given below:
+Apache Spark: "https://spark.apache.org/downloads.html"
+Apache Kafka: "https://kafka.apache.org/downloads"
+PostgreSQL: "https://www.postgresql.org/" (Any version)
+
+After that "requests, pyspark, kafka-python , psycopg2 , dash , plotly, pandas this are libraries have to install in cmd of any IDE like VS code terminal (example: pip install pandas).
+
