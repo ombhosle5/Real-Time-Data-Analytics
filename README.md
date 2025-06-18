@@ -76,7 +76,7 @@ PostgreSQL (with a table named wikimedia_edits)
 
 Here is a snapshot of the real-time dashboard:
 
-![Dashboard Preview](./image/Dashboard_output.jpg)
+![Dashboard Preview](./Dashboard_output.jpg)
 
 
 ## How to Run step-by-step
